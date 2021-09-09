@@ -26,7 +26,11 @@
   <br>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90" width="180">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&reversal=true" width="180">
-   
+   <img src="https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791">
+  <img src="https://img.shields.io/badge/Tool-NPM-informational?style=flat&logo=NPM&color=CB0000">
+  <img src="https://img.shields.io/badge/Tool-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB">
+  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=F05032">
+  <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&color=181717">
 </p>
 
 
