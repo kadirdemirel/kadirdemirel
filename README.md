@@ -30,7 +30,7 @@
 
 </p>
 <p align='center'>
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
+ <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="images/html.png" style="max-width:100%;"></a>
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB">
   <img src="https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=C&color=A8B9CC">
   <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=3D883B">
