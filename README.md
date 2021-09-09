@@ -8,7 +8,7 @@ My name is Kadir, I am 23 years old. I am currently studying Computer Engineerin
 <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="images/npm.png" style="max-width:100%;"></a>
 <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="CSS3" width="26px" src="images/react.png" style="max-width:100%;"></a>
 <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="BOOTSTRAP" width="26px" src="images/b.jpg" style="max-width:100%;"></a>
-<a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="CSharp" width="26px" src="images/c#.png" style="max-width:100%;"></a>
+<a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="CSharp" width="26px" src="images/c3.png" style="max-width:100%;"></a>
 <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="SQL" width="26px" src="images/sql.png" style="max-width:100%;"></a>
 <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="SQL" width="26px" src="images/mssql.png" style="max-width:100%;"></a>
 <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="SQL" width="26px" src="images/pssql.png" style="max-width:100%;"></a>
