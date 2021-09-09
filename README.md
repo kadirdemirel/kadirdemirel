@@ -1,5 +1,5 @@
-### Hello 👋
-I'm Kadir
+### Hello,I'm Kadir Demirel 👋
+
 ## Skills,Expereince and Tools
 <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="images/html.png" style="max-width:100%;"></a>
 <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="CSS3" width="26px" src="images/css.png" style="max-width:100%;"></a>
