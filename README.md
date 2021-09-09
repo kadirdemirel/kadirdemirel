@@ -18,13 +18,13 @@
 <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="SQL" width="26px" src="images/mssql.png" style="max-width:100%;"></a>
 
 
- <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="SQL" width="26px" src="images/pssql.png" style="max-width:100%;"></a>
+<a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="SQL" width="26px" src="images/pssql.png" style="max-width:100%;"></a>
 <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="GitHub" width="26px" src="images/visual-studio.png" style="max-width:100%;"></a>
 <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="GitHub" width="26px" src="images/github.png" style="max-width:100%;"></a>
 <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="GitHub" width="26px" src="images/gitt.png" style="max-width:100%;"></a>
   
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90" width="180">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&reversal=true" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90" width="180">
 
 
 
