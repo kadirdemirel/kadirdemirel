@@ -8,6 +8,7 @@ My name is Kadir, I am 23 years old. I am currently studying Computer Engineerin
 <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="SQL" width="26px" src="images/sql.png" style="max-width:100%;"></a>
 <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="GitHub" width="26px" src="images/visual-studio.png" style="max-width:100%;"></a>
 <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="GitHub" width="26px" src="images/github.png" style="max-width:100%;"></a>
+<a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="JAVA" width="26px" src="images/java.png" style="max-width:100%;"></a>
 <br>
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadirdemirel&show_icons=true&theme=tokyonight) 
