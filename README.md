@@ -26,7 +26,7 @@
 
 #
   
-[](images/iphone-grid.png)
+[!][](images/iphone-grid.png)
 
 #
 
