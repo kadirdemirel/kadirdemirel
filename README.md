@@ -26,7 +26,7 @@
 
 #
   
-[![](images/code.png  style="max-width:100%;")
+[![](images/code.png  width="26px")
 
 #
 
