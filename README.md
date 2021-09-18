@@ -25,8 +25,7 @@
 <br>
 
 #
-  
-[![](images/code.png  width="26px")
+ <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="left" alt="GitHub" width="260px" src="images/code.png" style="max-width:100%;"></a>
 
 #
 
