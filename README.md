@@ -25,7 +25,7 @@
 <br>
 
 #
- <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="center" alt="GitHub" width="1000em" height="500em" src="images/code.png" style="max-width:100%;"></a>
+ <a href="https://github.com/kadirdemirel" rel="nofollow"><img align="center" alt="GitHub"  src="images/code-blue.png" style="max-width:100%;"></a>
 
 #
 
