@@ -37,7 +37,7 @@
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadir-demirel/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kadirdemirel3335)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kadirdemirell)
 [![Mail Badge](https://img.shields.io/badge/kadirdemirel_17@hotmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kadirdemirel_17@hotmail.com)](mailto:kadirdemirel_17@hotmail.com)
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadirdemirel&show_icons=true&theme=tokyonight) 
