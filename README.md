@@ -41,7 +41,7 @@
 [![Mail Badge](https://img.shields.io/badge/kadirdemirel_17@hotmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kadirdemirel_17@hotmail.com)](mailto:kadirdemirel_17@hotmail.com)
 #
 ## Latest Blog Posts
-✍️ https://medium.com/@kadirdemirell/elementler-md-f6c7228f041c
+✍️ <a href="https://medium.com/@kadirdemirell/elementler-md-f6c7228f041c" rel="nofollow"><img align="left" alt="CSharp" width="26px" src="images/c3.png" style="max-width:100%;">Elementler</a>
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadirdemirel&show_icons=true&theme=tokyonight) 
 
