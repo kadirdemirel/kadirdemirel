@@ -1,12 +1,21 @@
+
+
+ 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kadir Demirel
 =====================================================================================================================================
 
  <a href="https://github.com/kadirdemirel/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
+ 
+
+ <img align="center" alt="GIF" height="400px" width="10000px" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47cyfuhay9nyu3cel8hj36n2p6yi6ou8hw6z88vf4t&rid=giphy.gif&ct=g" />
 
 ------------------
 
 * 🌍  I'm based in Mersin
 * ✉️  You can contact me at [kadirdemirel\_17@hotmail.com](mailto:kadirdemirel_17@hotmail.com)
+
+
+
 
 <a href="https://www.github.com/kadirdemirel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kadirdemirel?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
