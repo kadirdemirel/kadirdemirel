@@ -4,7 +4,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kadir Demirel
 =====================================================================================================================================
 
- <a href="https://github.com/kadirdemirel/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
+ <a href="https://github.com/kadirdemirel"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
  
 
  <img align="center" alt="GIF" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47cyfuhay9nyu3cel8hj36n2p6yi6ou8hw6z88vf4t&rid=giphy.gif&ct=g" />
