@@ -72,9 +72,9 @@ src="https://img.shields.io/github/followers/kadirdemirel?logo=github&style=for-
 <a href="http://www.github.com/kadirdemirel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kadirdemirel&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 <h3 align="left">Latest Blog Posts</h3>
+✍️ <a href="https://medium.com/@kadirdemirell/decorator-pattern-782b17faae92"  style="max-width:100%;">Decorator Pattern</a> <br>
+✍️ <a href="https://medium.com/@kadirdemirell/javada-lambda-expressions-eb844f42c4ef"  style="max-width:100%;">Java’da Lambda Expressions</a> <br> 
 ✍️ <a href="https://medium.com/@kadirdemirell/branch-ve-merge-konsepti-867cd6ee263d"  style="max-width:100%;">Branch ve Merge Konsepti</a> <br>
 ✍️ <a href="https://medium.com/@kadirdemirell/git-temellerine-giri%C5%9F-39504b3d8e1a"  style="max-width:100%;">Git Temellerine Giriş</a> <br>
-✍️ <a href="https://medium.com/@kadirdemirell/git-nedir-7eaf69ef2ee0"  style="max-width:100%;">Git Nedir?</a> <br>
-✍️ <a href="https://medium.com/@kadirdemirell/elementler-md-f6c7228f041c"  style="max-width:100%;">Elementler</a> <br>
-✍️ <a href="https://medium.com/@kadirdemirell/dillinger-md-b8facabc1dd5"  style="max-width:100%;">JSX'e Giriş</a> <br> <br>
+✍️ <a href="https://medium.com/@kadirdemirell/git-nedir-7eaf69ef2ee0"  style="max-width:100%;">Git Nedir?</a> <br><br>
 👉️ <a href="https://medium.com/@kadirdemirell"  style="max-width:100%;">Stay Tuned For More</a>
