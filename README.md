@@ -46,6 +46,7 @@ src="https://img.shields.io/github/followers/kadirdemirel?logo=github&style=for-
 <h3 align="left">Database</h3>
 <p align="left">
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2022" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/920386c6e944d35decd4cee44dfe4e14f51c8fab38b32c881cccac058b79c501/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3438302f6d6963726f736f66742d73716c2d7365727665722e706e67" width="36" height="36" alt="MsSQL" /></a>
 </p>
 <h3>Version Control & CI/CD</h3>
 <p>
@@ -56,6 +57,7 @@ src="https://img.shields.io/github/followers/kadirdemirel?logo=github&style=for-
 </p>
 <h3>Preferred IDEs & Tool</h3>
 <p>
+<a href="https://visualstudio.microsoft.com/tr/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/1e083c4cc12e36e4ecdf650d3961aa263772ecb07712e2a033869de92e9fa8f3/68747470733a2f2f7374617469632e77696b69612e6e6f636f6f6b69652e6e65742f6c6f676f70656469612f696d616765732f652f65342f56697375616c5f53747564696f5f323031335f4c6f676f2e7376672f7265766973696f6e2f6c61746573742f7363616c652d746f2d77696474682d646f776e2f3235303f63623d3230313931323231313232363235" alt="git" width="32" height="32"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="32" height="32"/> </a>
 <a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"> <img src="https://iconarchive.com/download/i98286/dakirby309/simply-styled/Eclipse.ico" alt="git" width="32" height="32"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="git" width="32" height="32"/> </a>
