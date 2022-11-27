@@ -72,7 +72,7 @@ src="https://img.shields.io/github/followers/kadirdemirel?logo=github&style=for-
 <a href="http://www.github.com/kadirdemirel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kadirdemirel&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 <h3 align="left">Latest Blog Posts</h3>
-✍️ <a href="https://medium.com/@kadirdemirell/erd-varl%C4%B1k-i%CC%87li%C5%9Fki-diyagram%C4%B1-43c088727a5a"  style="max-width:100%;">ERD (Varlık İlişki Diyagramı</a> <br>
+✍️ <a href="https://medium.com/@kadirdemirell/erd-varl%C4%B1k-i%CC%87li%C5%9Fki-diyagram%C4%B1-43c088727a5a"  style="max-width:100%;">ERD (Varlık İlişki Diyagramı)</a> <br>
 ✍️ <a href="Spring REST ve HAL Browser"  style="max-width:100%;">Spring REST ve HAL Browser</a> <br> 
 ✍️ <a href="https://medium.com/@kadirdemirell/web-servis-anahtar-terminolojisi-1efe5155a40a"  style="max-width:100%;">Web Servis — Anahtar Terminolojisi</a> <br>
 ✍️ <a href="https://medium.com/@kadirdemirell/web-servis-nedir-a5d5966e685f"  style="max-width:100%;">Web Servis Nedir?</a> <br>
